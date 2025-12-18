@@ -1,5 +1,5 @@
 ![logo](https://github.com/BillionaireVision/github-banner-image/blob/main/MODREN%20WEB%20%26%20MOBILE%20APP%20DEVELOPMENT.png)
-<h1 align="center">Hi 👋, I'm Muhammad Khizar MUGHAL</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Khizar Mughal</h1>
 <h3 align="center">Modren Web & Mobile Application Development</h3>
 
 - 🌱 I’m currently learning **Modren Web & Mobile Application Development course.etc**
