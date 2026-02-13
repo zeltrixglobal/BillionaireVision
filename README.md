@@ -39,8 +39,8 @@
 ### 🚀 My Latest Projects
 | Project | Tech Stack | Link |
 | :--- | :--- | :--- |
-| **Cakelora** | JS, HTML, CSS | [View](https://github.com/BillionaireVision) |
-| **Bykea** | JS, HTML, CSS | [View](https://github.com/BillionaireVision) |
+| **Cakelora** | JS, HTML, CSS | [View](https://github.com/zeltrixglobal) |
+| **Bykea** | JS, HTML, CSS | [View](https://github.com/zeltrixglobal) |
 
 <br/>
 
@@ -73,7 +73,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://github.com/BillionaireVision.png" width="180px" style="border-radius: 50%; border: 5px solid #36BCF7; box-shadow: 0 0 20px rgba(54, 188, 247, 0.5);" alt="Muhammad Khizar Mughal" />
+  <img src="https://github.com/zeltrixglobal.png" width="180px" style="border-radius: 50%; border: 5px solid #36BCF7; box-shadow: 0 0 20px rgba(54, 188, 247, 0.5);" alt="Muhammad Khizar Mughal" />
   <br/>
   <h2>Muhammad Khizar Mughal</h2>
   <p><b>Web Developer | Passionate Coder | UI/UX Enthusiast</b></p>
@@ -86,12 +86,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BillionaireVision&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BillionaireVision&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeltrixglobal&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeltrixglobal&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BillionaireVision&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeltrixglobal&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
